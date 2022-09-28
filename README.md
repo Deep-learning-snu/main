@@ -3,7 +3,7 @@
 
 ## 스터디 방식
 - ⏰ 스터디 시간 : 매주 수,금 오후 2시
-- 📗 스터디 자료 : [딥러닝 수업 오티](https://won-j.github.io/M1399_000400-2022fall/)
+- 📗 스터디 자료 : [딥러닝 수업 오티](https://won-j.github.io/M1399_000400-2022fall/), [산림청 국립수목원_버섯자원서비스](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15056525)
   - 딥러닝을 분석하여 노트(Jupyter notebook)에 정리
   - 제안, 질문은 [Issues](https://github.com/deep-dive-in-python/main/issues) 를 이용
   
@@ -13,7 +13,7 @@
 ### 간편 Git 사용 방법
   - Git clone
 ```
-https://github.com/deep-dive-in-python/main.git
+git clone https://github.com/Deep-learning-snu/main.git
 ```
   - Git 다운받기
 ```
