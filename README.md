@@ -9,6 +9,8 @@
   
 ## 스터디 자료
 - [캐글 스터디 커리큘럼](https://kaggle-kr.tistory.com/32)
+- [Alexnet](https://www.cognex.com/ko-kr/blogs/deep-learning/research/deep-learning-image-classification-dogs-vs-cats-classification-alexnet)
+- [다른 방법론](https://medium.com/ddiddu-log/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9D%B8%EC%8B%9D%EC%9D%98-%EC%A0%95%EC%9D%98%EC%99%80-%EC%A3%BC%EC%9A%94-%EB%AA%A8%EB%8D%B8-%EB%B9%84%EA%B5%90-1-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-image-classification-ae7a59bfaf65)
 
 ### 간편 Git 사용 방법
   - Git clone
@@ -36,3 +38,10 @@ git push
   - 버섯도감 파이썬으로 크롤링(경선), 이미지 크롤링(다연, 동욱)
 
 - 2022-10-05-수 3시
+  - 제안서 양식이나 발표 형식, 분 알아오기
+  - 1.이미지 픽셀 차원 동일화 + 독버섯이다 아니다 라벨링 + 이미지 픽셀 matrix로 변환(다연)
+  - 2.기본적인 CNN 올리고 돌리기(경선)
+  - 3.CNN 내부 요소 바꿔서 스코어 확인()
+  - 버섯 데이터에 문제가 조금 있으므로 만약에 바꾼다면 어떤 데이터로 할지 생각해오기
+  
+- 2022-10-24-월 3시
