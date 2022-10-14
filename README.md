@@ -54,9 +54,9 @@ git push
   - 이미지 임베딩 - 경선
   
 - [음식 이미지 분류](https://www.tensorflow.org/datasets/catalog/food101)
- - 나중을 위해 킵 [대형폐기물 분류](https://data.seoul.go.kr/etc/aiEduData.do)
+ > [대형폐기물 분류](https://data.seoul.go.kr/etc/aiEduData.do)
 
 - vanilla cnn, cnn, ResNet, VGG-16 돌리고 비교, 앙상블, 개조, 최신 방법론 이용할 수 있으면 좋고
 
-
+--------
 - 2022-10-24-월 3시
