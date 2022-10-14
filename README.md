@@ -14,6 +14,7 @@
 - [CNN 데이터 전처리](https://rdmkyg.blogspot.com/2021/06/cnn-cat-and-dog-dataset.html) 
 - [generative model](https://intrepidgeeks.com/tutorial/aiffel-22028-creates-unprecedented-new-fashion-with-artificial-intelligence)
 - [CNN basic](https://datasirup.tistory.com/m/117)
+- [Data augmentation](https://www.geeksforgeeks.org/python-data-augmentation/)
 
 ### 간편 Git 사용 방법
   - Git clone
@@ -55,7 +56,7 @@ git push
   
 - [음식 이미지 분류](https://www.tensorflow.org/datasets/catalog/food101)
  > [대형폐기물 분류](https://data.seoul.go.kr/etc/aiEduData.do)
-
+- data augmentation 
 - vanilla cnn, cnn, ResNet, VGG-16 돌리고 비교, 앙상블, 개조, 최신 방법론 이용할 수 있으면 좋고
 
 --------
