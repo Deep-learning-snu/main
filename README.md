@@ -53,4 +53,6 @@ git push
   - 이미지 임베딩 - 경선
   
 - [음식 이미지 분류](https://www.tensorflow.org/datasets/catalog/food101)
+- [대형폐기물 분류](https://data.seoul.go.kr/etc/aiEduData.do)
+
 - 2022-10-24-월 3시
