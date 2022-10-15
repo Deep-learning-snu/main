@@ -15,6 +15,7 @@
 - [generative model](https://intrepidgeeks.com/tutorial/aiffel-22028-creates-unprecedented-new-fashion-with-artificial-intelligence)
 - [CNN basic](https://datasirup.tistory.com/m/117)
 - [Data augmentation](https://www.geeksforgeeks.org/python-data-augmentation/)
+- [딥러닝 이미지 분류 논문 10개 선별](https://bigsong.tistory.com/47)
 
 ### 간편 Git 사용 방법
   - Git clone
