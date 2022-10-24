@@ -61,4 +61,18 @@ git push
 - vanilla cnn, cnn, ResNet, VGG-16 돌리고 비교, 앙상블, 개조, 최신 방법론 이용할 수 있으면 좋고
 
 --------
+### 딥러닝 프로포절 발표 피드백
+- 단순히 기존의 방법들을 앙상블하여 accuracy를 높이는 것은 수업의 방향과 맞지 않음.
+- 따라서 방법론의 한계를 찾고 이를 개선하는 식의 노력이 필요.
+--------
 - 2022-10-24-월 3시
+ - 동욱: MaxViT-L MaxViT: Multi-Axis Vision Transformer
+ - 다연: MOAT-4 22K+1K MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models
+ - 경선: TWIST (ResNet-50) Self-Supervised Learning by Estimating Twin Class Distributions
+ - [image classification rank](https://paperswithcode.com/sota/image-classification-on-imagenet)
+ - [food 101 classification](https://paperswithcode.com/sota/image-classification-on-food-101-1)
+ - 각자 페이퍼 읽고 한계점 알아오고 그것의 개선 아이디어 하나씩.
+ 
+------
+- 2022-11-02-수 3시
+ 
