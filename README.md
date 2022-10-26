@@ -13,7 +13,8 @@
 - [다른 방법론](https://medium.com/ddiddu-log/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9D%B8%EC%8B%9D%EC%9D%98-%EC%A0%95%EC%9D%98%EC%99%80-%EC%A3%BC%EC%9A%94-%EB%AA%A8%EB%8D%B8-%EB%B9%84%EA%B5%90-1-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-image-classification-ae7a59bfaf65)
 - [CNN 데이터 전처리](https://rdmkyg.blogspot.com/2021/06/cnn-cat-and-dog-dataset.html) 
 - [generative model](https://intrepidgeeks.com/tutorial/aiffel-22028-creates-unprecedented-new-fashion-with-artificial-intelligence)
-- [CNN basic](https://datasirup.tistory.com/m/117)
+- [CNN basic 1](https://yjjo.tistory.com/8)
+- [CNN basic 2](https://datasirup.tistory.com/m/117)
 - [Data augmentation](https://www.geeksforgeeks.org/python-data-augmentation/)
 - [딥러닝 이미지 분류 논문 10개 선별](https://bigsong.tistory.com/47)
 
