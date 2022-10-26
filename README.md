@@ -72,8 +72,10 @@ git push
  - 경선: TWIST (ResNet-50) Self-Supervised Learning by Estimating Twin Class Distributions
  - [image classification rank](https://paperswithcode.com/sota/image-classification-on-imagenet)
  - [food 101 classification](https://paperswithcode.com/sota/image-classification-on-food-101-1)
- - 각자 페이퍼 읽고 한계점 알아오고 그것의 개선 아이디어 하나씩.
- 
+ - 각자 페이퍼 읽고 한계점 알아오고 그것의 개선 아이디어 하나씩. 
+------
+- 2022-10-29-토 6시반
+ - 
 ------
 - 2022-11-02-수 3시
  
