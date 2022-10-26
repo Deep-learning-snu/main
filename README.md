@@ -68,6 +68,7 @@ git push
 --------
 - 2022-10-24-월 3시
   - 동욱: MaxViT-L MaxViT: Multi-Axis Vision Transformer
+    - PolyLoss: A Polynomial Expansion Perspective of Classification Loss Functions 으로 수정 
   - 다연: MOAT-4 22K+1K MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models
   - 경선: TWIST (ResNet-50) Self-Supervised Learning by Estimating Twin Class Distributions
   - [image classification rank](https://paperswithcode.com/sota/image-classification-on-imagenet)
