@@ -75,8 +75,11 @@ git push
   - [food 101 classification](https://paperswithcode.com/sota/image-classification-on-food-101-1)
   - 각자 페이퍼 읽고 한계점 알아오고 그것의 개선 아이디어 하나씩. 
 ------
-- 2022-10-29-토 6시반
-  - 
+- 2022-10-29-토 10시
+  - 경선: TWIST 모델링에 fairness term을 추가해서 biased dataset의 성능을 높이자!
+  - 동욱: polyloss , adaptive ensemble
+  - 다연: moat scaling rule 바꿔보자!
+  - MOAT 다들 공부해서 
 ------
-- 2022-11-02-수 3시
+- 2022-11-01-고통방 끝나고 모이기
  
