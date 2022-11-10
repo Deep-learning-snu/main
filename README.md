@@ -19,6 +19,7 @@
 - [딥러닝 이미지 분류 논문 10개 선별](https://bigsong.tistory.com/47)
 - [MOAT 논문](https://arxiv.org/pdf/2210.01820.pdf)
 - [MOAT github](https://github.com/RooKichenn/pytorch-MOAT)
+- [Pytorch로 시작하는 딥러닝 입문](https://wikidocs.net/63565)
 
 ### 간편 Git 사용 방법
   - Git clone
