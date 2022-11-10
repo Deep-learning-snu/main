@@ -84,5 +84,8 @@ git push
   - 다연: moat scaling rule 바꿔보자!
   - MOAT 다들 공부해서 
 ------
-- 2022-11-01-고통방 끝나고 모이기
- 
+- 2022-11-10-고통방 끝나고 모이기
+  - 1. 진행상황 피드백 하기. Tiny moat 구현, 공부해오기 , pre train model 불러오기. 11/16
+  - 2. Food dataset에 맞춰서 Input output 바꾸기 
+  - 3. 각 모델의 train된 weight 고정하고 마지막 레이어 합쳐서 마지막 레이어만 train 시키기. tensorflow에서 stacking 구현 11/30
+
