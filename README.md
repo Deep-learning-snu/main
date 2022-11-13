@@ -21,6 +21,7 @@
 - [MOAT github](https://github.com/RooKichenn/pytorch-MOAT)
 - [Efficient Adaptive Ensembling 논문](https://arxiv.org/pdf/2206.07394.pdf)
 - [맥북 M1 Tensorflow 설치](https://velog.io/@pcj1541/1.-Macbook-M1-Tensorflow-설치하기for-jupyter-notebook)
+- [Tensorflow 기본 사용법](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/get_started/basic_usage.html)
 
 ### 간편 Git 사용 방법
   - Git clone
