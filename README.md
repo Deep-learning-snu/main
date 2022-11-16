@@ -17,7 +17,7 @@
 - [CNN basic 2](https://datasirup.tistory.com/m/117)
 - [Data augmentation](https://www.geeksforgeeks.org/python-data-augmentation/)
 - [딥러닝 이미지 분류 논문 10개 선별](https://bigsong.tistory.com/47)
-- [MOAT 논문](https://arxiv.org/pdf/2210.01820.pdf)
+- [MOAT 논문](https://arxiv.org/pdf/2210.01820.pdf) - [코드](https://github.com/google-research/deeplab2)
 - [MOAT github](https://github.com/RooKichenn/pytorch-MOAT)
 - [Efficient Adaptive Ensembling 논문](https://arxiv.org/pdf/2206.07394.pdf)
 - [맥북 M1 Tensorflow 설치](https://velog.io/@pcj1541/1.-Macbook-M1-Tensorflow-설치하기for-jupyter-notebook)
