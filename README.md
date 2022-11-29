@@ -100,3 +100,10 @@ git push
 -----
  - 2022-11-21-3시
   - 마지막 아웃픗 101짜리 벡터로 바꾸기 softmax, 5개짜리 z로 input, data augmentation 완성, moat와 붙여서 
+
+------
+ - 2022-11-29-화
+   - paper와 presentation 쓸 사람 나누기
+   - 경선: Abstract & Introduction & Summary & Reference
+   - 다연: Experiment
+   - 동욱: Main Framework
