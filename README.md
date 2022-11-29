@@ -42,6 +42,10 @@ git commit -am "message"
 git push 
 ```
 
+## 논문 레퍼런스 추가하는 방법
+1. 논문 사이트에 들어가 download citation-BibTex 복사하기.
+2. overleaf에 reference.bib 파일에 복사 붙여넣기.
+3. main.tex에 쓸 때는 논문 관련 단어\cite{논문 이름} 으로 추가하기.
 
 ## 프로젝트 기록
 ### Binary classification-독버섯 분류기
